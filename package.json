@@ -12,6 +12,7 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.1.14",
     "@tailwindcss/vite": "^4.1.16",
+    "better-sqlite3": "^12.4.1",
     "tailwindcss": "^4.1.16",
     "vue": "^3.4.21"
   },
